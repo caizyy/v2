@@ -89,4 +89,4 @@ stdin.on('data', (key)=>{
     }
     console.log(getui())
 })
-process.title = ">w< recorder"
+process.title = "v2 recorder :3"
